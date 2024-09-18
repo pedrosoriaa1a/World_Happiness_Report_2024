@@ -1,1 +1,4 @@
 # World_Happiness_Report_2024
+Este proyecto se enfoca en desentrañar los factores que contribuyen al bienestar a nivel nacional a través del análisis del conjunto de datos del Informe Mundial sobre la Felicidad 2024. Utilizando técnicas de aprendizaje automático, específicamente la regresión lineal, se construyó un modelo predictivo para estimar la 'Escalera de la Vida', un indicador clave de la satisfacción con la vida.
+
+El conjunto de datos, que abarca múltiples años y países, incluye una amplia gama de variables socioeconómicas y psicológicas, como el PIB per cápita, el apoyo social, la esperanza de vida, la libertad, la generosidad, la percepción de corrupción y medidas de afecto positivo y negativo. Al analizar estas variables en relación con la felicidad reportada, se busca identificar cuáles son los factores más influyentes en el bienestar subjetivo y cómo interactúan entre sí.
